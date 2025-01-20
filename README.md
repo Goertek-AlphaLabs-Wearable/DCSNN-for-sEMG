@@ -19,3 +19,5 @@ link:
 ![figure4](https://github.com/user-attachments/assets/d9e131bd-4988-4354-b0e9-fbf90959419e)
 In all files, except for "Other," the first 8/3 columns represent the raw sEMG data, corresponding to the original data from each channel of GBS-I and GBS-II, respectively. The 4th/9th column indicates the data state, where 0 represents a Neutral state and 1 signifies an Action state.
 In the "Other" files, the user performs various gestures randomly, so there is no label in the final column.
+![1737373637536](https://github.com/user-attachments/assets/9e520541-a62e-4c19-968b-e8c3f679efa6)![1737373661976](https://github.com/user-attachments/assets/0ad70043-a806-443e-b24d-8f9b8508c52f)
+
