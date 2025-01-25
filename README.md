@@ -14,7 +14,8 @@ We proposed a novel deep compressed spiking neural network (DCSNN), which can ac
 
 
 # dataset
-link:
+link:https://www.kaggle.com/datasets/h****g/d***s
+[Due to anonymity regulations, we must temporarily postpone the release of the dataset link.]
 
 ![figure4](https://github.com/user-attachments/assets/d9e131bd-4988-4354-b0e9-fbf90959419e)
 In all files, except for "Other," the first 8/3 columns represent the raw sEMG data, corresponding to the original data from each channel of GBS-I and GBS-II, respectively. The 4th/9th column indicates the data state, where 0 represents a Neutral state and 1 signifies an Action state.
